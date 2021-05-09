@@ -2,8 +2,9 @@
 
 This is a small app made with react and redux.
 
- ## Capturas
+ ## screenshot
  <img src="captura.png" alt="Captura del proyecto"/>
 
+
  ## Demo 
- [Ver demo](https://ronald3012.github.io/react-redux-counter/)
+ [See demo](https://ronald3012.github.io/react-redux-counter/)
