@@ -1,0 +1,26 @@
+.counter{
+  display: flex;
+  align-items: center;
+  margin-top: 10vh;
+}
+
+.counter p, .counter button{
+  flex: 1 1 30%;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  margin: 0 0 0 10px;
+  border-radius: 10px;
+  border: none;
+  background: #00bcd4;
+  color: #fff;
+}
+
+.counter p{
+  background-color: #fff;
+  color: black;
+}
+
+H1{
+  text-align: center;
+}
