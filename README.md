@@ -2,9 +2,8 @@
 
 This is a small app made with react and redux.
 
-## APIS
-* Drag and drop
-
  ## Capturas
  <img src="captura.png" alt="Captura del proyecto"/>
 
+ ## Demo 
+ [Ver demo](https://ronald3012.github.io/react-redux-counter/)
