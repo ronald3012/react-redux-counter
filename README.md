@@ -1,4 +1,4 @@
-# Counter app width react and redux
+# Counter app with react and redux
 
 This is a small app made with react and redux.
 
