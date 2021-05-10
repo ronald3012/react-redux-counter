@@ -8,12 +8,16 @@
   flex: 1 1 30%;
   text-align: center;
   padding: 10px;
-  font-size: 20px;
+  font-size: 16px;
   margin: 0 0 0 10px;
-  border-radius: 10px;
+  border-radius: 5px;
   border: none;
   background: #00bcd4;
   color: #fff;
+  text-transform: uppercase;
+}
+.counter button{
+  min-width:154px;
 }
 
 .counter p{
@@ -23,4 +27,49 @@
 
 H1{
   text-align: center;
+}
+
+.logs{
+  border: 1px solid #00bcd4;
+  margin-top: 15vh;
+  position: relative;
+}
+
+.logs p{
+  text-align: left;
+  background-color: #00bcd4;
+  width: 120px;
+  padding: 5px;
+  top: -45px;
+  position: absolute;
+  left: -1px;
+  color: #fff;
+  border-radius: 8px 8px 0px 0px;
+  text-transform: uppercase;
+}
+
+
+.logs ul{
+  list-style: none;
+  padding-left: 10px;
+}
+
+.logs ul li{
+  display: flex;
+  justify-content: space-between;
+  border-left: solid 1px #29bcd4;
+  margin: 10px;
+  padding-left: 8px;
+  font-weight: 100;
+}
+
+.logs ul li span{
+  background-color: #00bcd4;
+  color: #fff;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.decrement{
+  background-color: #f44336 !important;
 }
